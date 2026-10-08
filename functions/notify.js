@@ -1,5 +1,5 @@
 exports.handler = async (event) => {
-  const token = "8277185112:AAHe5cxorCHbq8Wo7iKbNUZ-iLAUNERrlY8";
+  const token = "8909291431:AAG0Ja6pvHmNRdUB54ZuxVAPksIA8nz2Cv8";
   const chatId = "1129888576";
 
   const ip =
